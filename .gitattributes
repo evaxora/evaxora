@@ -1,0 +1,2 @@
+# Linguist overrides — show repo as JavaScript, not CSS
+*.css linguist-detectable=false
